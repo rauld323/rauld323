@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning: **Three.js and Node**
 
-- 🔨 I’m building next: **React projects and a 3D animations with Blender**
+- 🔨 I’m building next: **React projects and 3D animations with Blender**
 
-- 🤝 I’m looking to work with others on an engaging project.
+- 🤝 I’m looking to: **work with others on an engaging project**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about: **Anything!**
 
-- ⚡ Random fact: I have a dog and 2 cats.
+- ⚡ Random fact: I have a dog and 2 cats
 
 </br>
 <h3 align="left">Languages and Tools:</h3>
