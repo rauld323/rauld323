@@ -19,6 +19,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rauld323&show_icons=true&locale=en&layout=compact" alt="rauld323" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rauld323&show_icons=true&locale=en&layout=compact" alt="rauld323" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rauld323&" alt="rauld323" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rauld323&" alt="rauld323" /></p>
