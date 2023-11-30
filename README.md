@@ -7,7 +7,6 @@
 </div>
 
 </br>
-</br>
 
 - 👨‍💻 I’m currently working on: **perfecting my React/JS skills**
 
@@ -21,7 +20,6 @@
 
 - ⚡ Random fact: I have a dog and 2 cats.
 
-</br>
 </br>
 <h3 align="left">Languages and Tools:</h3>
 </br>
