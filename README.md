@@ -8,6 +8,21 @@
 
 </br>
 </br>
+
+- 👨‍💻 I’m currently working on: **perfecting my React/JS skills**
+
+- 🌱 I’m currently learning: **Three.js and Node**
+
+- 🔨 I’m building next: **React projects and a 3D animations with Blender**
+
+- 🤝 I’m looking to work with others on an engaging project.
+
+- 💬 Ask me about **Anything**
+
+- ⚡ Random fact: I have a dog and 2 cats.
+
+</br>
+</br>
 <h3 align="left">Languages and Tools:</h3>
 </br>
 <p align="center">
