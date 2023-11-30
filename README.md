@@ -18,7 +18,7 @@
 
 - 💬 Ask me about: **Anything!**
 
-- ⚡ Random fact: I have a dog and 2 cats
+- ⚡ Random fact: **I have a dog and 2 cats**
 
 </br>
 <h3 align="left">Languages and Tools:</h3>
