@@ -1,4 +1,4 @@
-<h1 align="center">Hey, 👋, I'm Raul </h1>
+<h1 align="center">Hey, 👋. I'm Raul </h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/raul-davila-web/">
