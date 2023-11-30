@@ -1,34 +1,24 @@
-### Hey, I'm Raul 👋
+<h1 align="center">Hey, 👋, I'm Raul </h1>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/raul-davila-web/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<!-- ### :hammer_and_wrench: Languages and Tools :
+</br>
+</br>
+<h3 align="left">Languages and Tools:</h3>
+</br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,jest,nextjs,bootstrap,tailwind,git,github,netlify,d3,styledcomponents,vscode,threejs&perline=7" />
+</p>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/icons/typescript/typescript-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*alt="Git" width="40" height="40"/>
+</br>
+</br>
 
-</div> -->
-<!--
-**rauld323/rauld323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">GitHub Stats:</h3>
+</br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rauld323&show_icons=true&locale=en&layout=compact" alt="rauld323" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rauld323&" alt="rauld323" /></p>
