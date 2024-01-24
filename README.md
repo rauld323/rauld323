@@ -10,7 +10,7 @@
 
 - 👨‍💻 I’m currently working on: **perfecting my React/JS skills**
 
-- 🌱 I’m currently learning: **Three.js, Prisma and rRPC**
+- 🌱 I’m currently learning: **Three.js, Prisma and tRPC**
 
 - 🔨 I’m building next: **React projects and 3D animations with Blender**
 
